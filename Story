@@ -7,3 +7,5 @@ Story:
 4. They started to race.
 5. Rabbit slept in the middle
 6. Tortoise Won the race.
+7. After that the Rabbit wake up.
+8. All were cheering for tortoise.
